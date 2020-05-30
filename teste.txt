@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testando
+=======
+teste
+>>>>>>> 60c8c3bed10c764bcc0b9eecf44b2d6e4b46cf7e
